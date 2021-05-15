@@ -2,7 +2,7 @@
 Here is the link
 
 
-It is a registration website where you can register/sign-in/sign-out , We wanted to connect it to ( https://github.com/cmirkhad/MidtermMusicDataStorage ) 
+It is a registration website where you can register/sign-in/sign-out , We wanted to connect it to frontend page (https://github.com/Muzaffar8/music )and user page ( https://github.com/cmirkhad/MidtermMusicDataStorage )  but  unfortunately we could not
 
 ![Alt text](https://imgur.com/I5j8tGv.png "Optional title")
 
