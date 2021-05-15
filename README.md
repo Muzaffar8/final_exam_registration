@@ -12,3 +12,9 @@ It is a registration website where you can register/sign-in/sign-out , We wanted
 
 
 ![Alt text](https://imgur.com/yzM4O32.png "Optional title")
+
+Project done by Muzaffar Tursunbaev and Mirkhad Chekirbaev.
+
+we apologize for being late!
+
+ Please check out the links given above to see frontend and userpage that we could not connect
