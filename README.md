@@ -13,7 +13,7 @@ It is a registration website where you can register/sign-in/sign-out , We wanted
 
 ![Alt text](https://imgur.com/yzM4O32.png "Optional title")
 
-Project done by Muzaffar Tursunbaev and Mirkhad Chekirbaev.
+Project done by Muzaffar Tursunbaev and Mirkhad Chekirbaev. COM 19.
 
 we apologize for being late!
 
